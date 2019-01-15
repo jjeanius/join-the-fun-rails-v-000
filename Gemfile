@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 
-gem 'rails', '~> 4.2.11'
+gem 'rails', '~> 4.2'
 
 gem 'rake', '< 11.0'
 
@@ -49,4 +49,5 @@ end
 # gem 'capistrano', group: :development
 
 # Use debugger
+
 # gem 'debugger', group: [:development, :test]
