@@ -5,4 +5,6 @@ class Passenger < ActiveRecord::Base
   def passenger
     @passenger.taxis << taxi
     @passenger.rides << ride
+  end
+  
 end
