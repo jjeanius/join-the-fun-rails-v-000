@@ -6,5 +6,5 @@ class Passenger < ActiveRecord::Base
     @passenger.taxis << taxi
     @passenger.rides << ride
   end
-  
+
 end
